@@ -1,0 +1,25 @@
+{
+  "name": "@bristlefrost/eslint-config",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bristlefrost1/eslint-config.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Roni Nevalainen (Bristlefrost)",
+    "email": "me@bristlefrost.net",
+    "url": "https://bristlefrost.net"
+  },
+  "license": "MIT",
+  "description": "The eslint config used in my projects.",
+  "peerDependencies": {
+    "eslint": ">= 9.7.0",
+    "@eslint/js": ">= 9.7.0"
+  }
+}
