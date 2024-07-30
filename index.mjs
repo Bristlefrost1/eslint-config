@@ -5,6 +5,9 @@ export default [
 
 	{
 		rules: {
+			'no-unused-vars': 'off',
+			'no-undef': 'off',
+
 			'no-constructor-return': 'error',
 			'no-duplicate-imports': 'warn',
 			'no-promise-executor-return': 'error',
