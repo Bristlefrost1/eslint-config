@@ -10,7 +10,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["ESLint"],
   "author": {
     "name": "Bris",
     "email": "me@bristlefrost.net",
